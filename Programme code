@@ -1,4 +1,5 @@
-```package com.MianMing;
+```java
+package com.MianMing;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
@@ -437,4 +438,5 @@ public class MineralWater
             System.out.println("Please only enter number!");
         }
     }
-}```
+}
+```
