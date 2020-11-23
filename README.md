@@ -1,13 +1,15 @@
 # Assignment1
 flowchart
-![Assignment 1 flowchart](https://user-images.githubusercontent.com/72848507/99969837-f9f81080-2dd5-11eb-9242-2fbb1286867c.png)
+![Assignment 1 flowchart](https://user-images.githubusercontent.com/72848507/99973117-6117c400-2dda-11eb-89d9-013e45b007f6.png)
+
 Result output for question 1
 
-![Question 1](https://user-images.githubusercontent.com/72848507/99969932-198f3900-2dd6-11eb-8f32-ae3f83df5414.jpg)
+![Question 1](https://user-images.githubusercontent.com/72848507/99974121-78a37c80-2ddb-11eb-9c73-b871412ea52a.jpg)
 
 Result output for question 2
 
-![Question 2](https://user-images.githubusercontent.com/72848507/99969926-185e0c00-2dd6-11eb-8892-99d0ffcba9bf.jpg)
+![Question 2](https://user-images.githubusercontent.com/72848507/99974125-79d4a980-2ddb-11eb-99bb-4b2765bfe5a2.jpg)
+
 
 video presentation
 https://youtu.be/PjIUSzlUmg8
